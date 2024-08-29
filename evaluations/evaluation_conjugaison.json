@@ -1,0 +1,20 @@
+{
+    "id": "eval002",
+    "title": "Grammaire - Majuscules et Ponctuation",
+    "questions": [
+      {
+        "question": "Écrivez la phrase suivante en respectant la grammaire : 'bonjour monsieur'",
+        "type": "open",
+        "answer": "Bonjour Monsieur.",
+        "case_sensitive": true,
+        "ignore_punctuation": false
+      },
+      {
+        "question": "Conjuguez le verbe 'finir' à la première personne du singulier (je) au présent.",
+        "type": "open",
+        "answer": "finis",
+        "case_sensitive": false,
+        "ignore_spaces": true
+      }
+    ]
+  }

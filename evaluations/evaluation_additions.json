@@ -1,0 +1,37 @@
+{
+    "id": "eval001",
+    "title": "Évaluation des Additions",
+    "subject": "Mathématiques",
+    "questions": [
+        {
+            "id": "q1",
+            "question": "Combien font 2 + 3 ?",
+            "options": {
+                "A": "4",
+                "B": "5",
+                "C": "6",
+                "D": "7"
+            },
+            "answer": "B",
+            "type": "multiple_choice"
+        },
+        {
+            "id": "q3",
+            "question": "Écrivez en toutes lettres le résultat de l'addition 8 + 7.",
+            "type": "open",
+            "answer": "quinze",
+            "case_sensitive": false,
+            "ignore_punctuation": true,
+            "ignore_spaces": true
+        },
+        {
+            "id": "q4",
+            "question": "Combien font 15 + 10 ? (répondez en chiffres)",
+            "type": "open",
+            "answer": "25",
+            "case_sensitive": true,
+            "ignore_punctuation": false,
+            "ignore_spaces": false
+        }
+    ]
+}
